@@ -33,7 +33,6 @@ const dataSource = {
     numberPrefix: "$",
     theme: "fusion",
     crossLineAnimation: 0,
-    exportEnabled: 1,
   },
   data: chartBarData,
 };

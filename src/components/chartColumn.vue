@@ -34,7 +34,6 @@ const dataSource = {
     numbersuffix: "K",
     theme: "fusion",
     crossLineAnimation: 0,
-    exportEnabled: 1,
   },
   data: chartColumnData,
 };
